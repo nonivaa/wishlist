@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=0.3">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>wishlist!!</title>
   <style>
     body {
@@ -26,13 +26,14 @@
 
     h1 { color: #434343; }
 
-    /* 🧩 Add space and style for dropdown boxes */
+    
     details {
       background: white;
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      width: 500px;
-      margin: 25px auto;  /* 👈 This adds space between them */
+      width: 90%;
+      max-width: 500px;
+      margin: 25px auto; 
       padding: 10px;
       text-align: left;
     }
@@ -95,7 +96,7 @@
   <details>
     <summary>READ FIRST!!</summary>
     <p>
-      If (Cpu Fan), (Thermal Paste) is necessary!, it will not function otherwise. (Psu) should be 650W
+      If (Cpu Fan), (Thermal Paste) is necessary!, it will not function otherwise. (Psu) should be 650W (otherwise boom) "ɪᴛ ᴅᴏᴇsɴᴛ ᴇxᴘʟᴏᴅᴇ 650W ɪs ᴊᴜsᴛ ᴛʜᴇ ʙᴇsᴛ ғᴏʀ ᴛʜᴇ ᴘᴄ"
     </p>
   </details>
 
