@@ -167,7 +167,7 @@
     <p>
       If <b>Cpu Fan</b> is bought <b>Thermal Paste</b> is necessary — overheating may happen otherwise.  
       <b>Psu</b> should be <b>650W</b> (otherwise boom 💥)  
-      <i>It doesn’t actually explode — 650W is just the best for this PC. :3</i>
+      <i>It doesn’t actually explode — 650W is just the best for this PC.</i>
     </p>
   </details>
 
