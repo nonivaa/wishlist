@@ -89,7 +89,8 @@
       <a href="https://www.netonnet.se/art/datorkomponenter/kylning/kylpasta/corsair-tm30-thermal-paste/1007891.9166/">Thermal Paste</a>
       <a href="https://www.netonnet.se/art/dator-surfplatta/datortillbehor/datorrengoring/mission-sg-air-d2000-air-duster/1030674.9511/">Pc Cleaner</a>
       <a href="https://www.netonnet.se/art/datorkomponenter/installationstillbehor/mission-sg-bit-driver-kit/1029702.8965/">Tool Kit</a>
-      <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R7QMZH">HE68</a>
+      <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R5G19S/ref=pd_ci_mcx_mh_mcx_views_3_image?pd_rd_w=M0iwh&content-id=amzn1.sym.1aac19f0-d16d-4dbe-afc6-c8d7dd9d7905%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=1aac19f0-d16d-4dbe-afc6-c8d7dd9d7905&pf_rd_r=B9AGV0YPS7S78ZVD1Y5X&pd_rd_wg=lrgvg&pd_rd_r=41c63eb3-477f-4103-8f58-da3175cf2804&pd_rd_i=B0F7R5G19S&th=1">HE68</a>
+      <a href="https://www.amazon.se/Aothia-Skrivbordsunderl%C3%A4gg-skrivbordsskydd-vattent%C3%A4tt-skrivbordsunderl%C3%A4gg/dp/B09X6QBGWV?pd_rd_w=GNJ7y&content-id=amzn1.sym.2c45a213-2ebd-4981-85d3-11833228850a&pf_rd_p=2c45a213-2ebd-4981-85d3-11833228850a&pf_rd_r=G3AGDF4NNFW4H4B8NJ2D&pd_rd_wg=MCce7&pd_rd_r=0e307692-5613-41d5-a426-b38f137e991b&pd_rd_i=B0C6KCTQ56&ref_=oct_dx_dotd_B0C6KCTQ56&th=1">"Mouse Pad"</a>
     </p>
   </details>
 
