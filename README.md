@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -172,7 +171,7 @@
     </p>
   </details>
 
-  <footer>Made with 💙 and HTML • Hosted on GitHub Pages</footer>
+  <footer>Made by Nonivaa :3</footer>
 
   <script>
     // Optional: open animation for details when first clicked
