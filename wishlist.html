@@ -3,104 +3,155 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>wishlist!!</title>
+  <title>Wishlist! :3</title>
   <style>
+    /* === Base Styles === */
     body {
-      font-family: Arial, sans-serif;
-      background: linear-gradient(135deg, #e3f2fd, #bbdefb);
-      color: #333;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: radial-gradient(circle at top left, #e3f2fd, #90caf9);
+      color: #2b2b2b;
       text-align: center;
-      padding: 5em;
-      margin-top: 50px;
+      padding: 3em 1em;
+      margin: 0;
+      min-height: 100vh;
     }
 
-    a {
-      margin: 0 20px;
-      text-decoration: none;
-      color: #0078d7;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-
-    h1 { color: #434343; }
-
-    
-    details {
-      background: white;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      width: 90%;
-      max-width: 500px;
-      margin: 25px auto; 
-      padding: 10px;
-      text-align: left;
-    }
-
-    summary {
-      padding: 10px;
-      background: #0078d7;
-      color: white;
-      border-radius: 5px;
-      cursor: pointer;
-      font-weight: bold;
-      list-style: none;
-    }
-
-    /* Special color for the READ FIRST box */
-    details:last-of-type summary {
-      background: #4a4a4a;
+    h1 {
+      color: #0d47a1;
+      font-size: 2em;
+      margin-bottom: 0.3em;
     }
 
     p {
-      background: #f0f8ff;
-      padding: 10px;
-      margin-top: 10px;
-      border-radius: 5px;
+      color: #444;
+      margin-bottom: 2em;
+    }
+
+    /* === Card Containers (details) === */
+    details {
+      background: #ffffffb3;
+      border-radius: 16px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+      width: 100%;
+      max-width: 500px;
+      margin: 20px auto;
+      overflow: hidden;
+      backdrop-filter: blur(10px);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    details:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.12);
+    }
+
+    summary {
+      background: linear-gradient(90deg, #1976d2, #42a5f5);
+      color: #fff;
+      padding: 14px 18px;
+      font-weight: bold;
+      font-size: 1.1em;
+      cursor: pointer;
+      list-style: none;
+      user-select: none;
+    }
+
+    /* READ FIRST special section */
+    details:last-of-type summary {
+      background: linear-gradient(90deg, #424242, #616161);
+    }
+
+    summary::-webkit-details-marker {
+      display: none;
+    }
+
+    /* === Link Styles === */
+    details p {
+      margin: 0;
+      padding: 15px;
+      background: #f8faff;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      border-top: 1px solid #e0e0e0;
+    }
+
+    a {
+      display: inline-block;
+      background: linear-gradient(90deg, #2196f3, #64b5f6);
+      color: white;
+      padding: 10px 16px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: all 0.2s ease;
+      font-weight: 500;
+      font-size: 0.95em;
+    }
+
+    a:hover {
+      background: linear-gradient(90deg, #64b5f6, #2196f3);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+
+    /* Mobile Adjustments */
+    @media (max-width: 600px) {
+      body {
+        padding: 2em 0.5em;
+      }
+
+      h1 {
+        font-size: 1.6em;
+      }
+
+      a {
+        font-size: 0.9em;
+        padding: 8px 12px;
+      }
     }
   </style>
 </head>
 <body>
-  <h1>Here are some links:</h1>
-  <p>i hope these work</p>
+  <h1>Here are some links</h1>
+  <p>i hope these work!</p>
 
   <details>
     <summary>Vr</summary>
     <p>
-      <a href="https://www.amazon.se/BOBOVR-S3-Pro-huvudluftkonditionering-Hot-Swap-batteri/dp/B0CSY8PD63">Bobo Vr</a>
-      <a href="https://www.amazon.se/AMVR-Uppgraderade-handkontrollremmar-batterilucka-laddningsdocka/dp/B0CJF9QKZ5">AMVR</a>
+      <a href="https://www.amazon.se/BOBOVR-S3-Pro-huvudluftkonditionering-Hot-Swap-batteri/dp/B0CSY8PD63" target="_blank" rel="noopener noreferrer">Bobo Vr</a>
+      <a href="https://www.amazon.se/AMVR-Uppgraderade-handkontrollremmar-batterilucka-laddningsdocka/dp/B0CJF9QKZ5" target="_blank" rel="noopener noreferrer">AMVR</a>
     </p>
   </details>
 
   <details>
     <summary>Pc</summary>
     <p>
-      <a href="https://www.netonnet.se/art/datorkomponenter/grafikkort/amd/sapphire-radeon-rx-9060-xt-gaming-oc-8gb-pulse/1055575.8988/">Gpu</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/nataggregat/ickemodulart/corsair-cx650-650w/1033220.9010/">Psu</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/kylning/processorkylning/luftkylning/nzxt-t120-cpu-air-cooler-white-with-120/1035079.21138/">Cpu Fan</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/datorchassi/zalman-z1-iceberg-white/1025424.8955/">Pc Case</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/grafikkort/amd/sapphire-radeon-rx-9060-xt-gaming-oc-8gb-pulse/1055575.8988/" target="_blank" rel="noopener noreferrer">Gpu</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/nataggregat/ickemodulart/corsair-cx650-650w/1033220.9010/" target="_blank" rel="noopener noreferrer">Psu</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/kylning/processorkylning/luftkylning/nzxt-t120-cpu-air-cooler-white-with-120/1035079.21138/" target="_blank" rel="noopener noreferrer">Cpu Fan</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/datorchassi/zalman-z1-iceberg-white/1025424.8955/" target="_blank" rel="noopener noreferrer">Pc Case</a>
     </p>
   </details>
 
   <details>
     <summary>Extras</summary>
     <p>
-      <a href="https://www.netonnet.se/art/datorkomponenter/kylning/kylpasta/corsair-tm30-thermal-paste/1007891.9166/">Thermal Paste</a>
-      <a href="https://www.netonnet.se/art/dator-surfplatta/datortillbehor/datorrengoring/mission-sg-air-d2000-air-duster/1030674.9511/">Pc Cleaner</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/installationstillbehor/mission-sg-bit-driver-kit/1029702.8965/">Tool Kit</a>
-      <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R5G19S/ref=pd_ci_mcx_mh_mcx_views_3_image?pd_rd_w=M0iwh&content-id=amzn1.sym.1aac19f0-d16d-4dbe-afc6-c8d7dd9d7905%3Aamzn1.symc.30e3dbb4-8dd8-4bad-b7a1-a45bcdbc49b8&pf_rd_p=1aac19f0-d16d-4dbe-afc6-c8d7dd9d7905&pf_rd_r=B9AGV0YPS7S78ZVD1Y5X&pd_rd_wg=lrgvg&pd_rd_r=41c63eb3-477f-4103-8f58-da3175cf2804&pd_rd_i=B0F7R5G19S&th=1">HE68</a>
-      <a href="https://www.amazon.se/Aothia-Skrivbordsunderl%C3%A4gg-skrivbordsskydd-vattent%C3%A4tt-skrivbordsunderl%C3%A4gg/dp/B09X6QBGWV?pd_rd_w=GNJ7y&content-id=amzn1.sym.2c45a213-2ebd-4981-85d3-11833228850a&pf_rd_p=2c45a213-2ebd-4981-85d3-11833228850a&pf_rd_r=G3AGDF4NNFW4H4B8NJ2D&pd_rd_wg=MCce7&pd_rd_r=0e307692-5613-41d5-a426-b38f137e991b&pd_rd_i=B0C6KCTQ56&ref_=oct_dx_dotd_B0C6KCTQ56&th=1">"Mouse Pad"</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/kylning/kylpasta/corsair-tm30-thermal-paste/1007891.9166/" target="_blank" rel="noopener noreferrer">Thermal Paste</a>
+      <a href="https://www.netonnet.se/art/dator-surfplatta/datortillbehor/datorrengoring/mission-sg-air-d2000-air-duster/1030674.9511/" target="_blank" rel="noopener noreferrer">Pc Cleaner</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/installationstillbehor/mission-sg-bit-driver-kit/1029702.8965/" target="_blank" rel="noopener noreferrer">Tool Kit</a>
+      <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R5G19S/" target="_blank" rel="noopener noreferrer">HE68</a>
+      <a href="https://www.amazon.se/Aothia-Skrivbordsunderl%C3%A4gg-skrivbordsskydd-vattent%C3%A4tt-skrivbordsunderl%C3%A4gg/dp/B09X6QBGWV/" target="_blank" rel="noopener noreferrer">Mouse Pad</a>
     </p>
   </details>
 
   <details>
     <summary>READ FIRST!!</summary>
     <p>
-      If (Cpu Fan), (Thermal Paste) is necessary!, it will not function otherwise. (Psu) should be 650W (otherwise boom) "ɪᴛ ᴅᴏᴇsɴᴛ ᴇxᴘʟᴏᴅᴇ 650W ɪs ᴊᴜsᴛ ᴛʜᴇ ʙᴇsᴛ ғᴏʀ ᴛʜᴇ ᴘᴄ"
+      If <b>Cpu Fan</b> is bought <b>Thermal Paste</b> is necessary, overheating is prone to happen otherwise.  
+      <b>Psu</b> should be 650W (otherwise boom 💥)  
+      <i>It doesn’t actually explode — 650W is just the best for this PC. :3</i>
     </p>
   </details>
-
 </body>
 </html>
-
