@@ -3,7 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Wishlist! :3</title>
+  <title>🌸 Wishlist! :3</title>
+  <link rel="icon" href="https://emojiapi.dev/api/v1/star.svg" type="image/svg+xml">
   <style>
     /* === Base Styles === */
     body {
@@ -14,6 +15,7 @@
       padding: 3em 1em;
       margin: 0;
       min-height: 100vh;
+      transition: background 0.3s ease;
     }
 
     h1 {
@@ -40,6 +42,15 @@
       transition: transform 0.2s ease, box-shadow 0.2s ease;
     }
 
+    details[open] {
+      animation: fadeIn 0.4s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-5px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
     details:hover {
       transform: translateY(-3px);
       box-shadow: 0 10px 25px rgba(0,0,0,0.12);
@@ -56,13 +67,13 @@
       user-select: none;
     }
 
-    /* READ FIRST special section */
-    details:last-of-type summary {
-      background: linear-gradient(90deg, #424242, #616161);
-    }
-
     summary::-webkit-details-marker {
       display: none;
+    }
+
+    /* === Last section special === */
+    details:last-of-type summary {
+      background: linear-gradient(90deg, #424242, #616161);
     }
 
     /* === Link Styles === */
@@ -95,6 +106,13 @@
       box-shadow: 0 4px 10px rgba(0,0,0,0.15);
     }
 
+    /* === Footer === */
+    footer {
+      margin-top: 3em;
+      font-size: 0.85em;
+      color: #666;
+    }
+
     /* Mobile Adjustments */
     @media (max-width: 600px) {
       body {
@@ -113,7 +131,7 @@
   </style>
 </head>
 <body>
-  <h1>Here are some links</h1>
+  <h1>Here are some links 💫</h1>
   <p>i hope these work!</p>
 
   <details>
@@ -146,12 +164,23 @@
   </details>
 
   <details>
-    <summary>READ FIRST!!</summary>
+    <summary>READ FIRST!! ⚠️</summary>
     <p>
-      If <b>Cpu Fan</b> is bought <b>Thermal Paste</b> is necessary, overheating is prone to happen otherwise.  
-      <b>Psu</b> should be 650W (otherwise boom 💥)  
+      If <b>Cpu Fan</b> is bought <b>Thermal Paste</b> is necessary — overheating may happen otherwise.  
+      <b>Psu</b> should be <b>650W</b> (otherwise boom 💥)  
       <i>It doesn’t actually explode — 650W is just the best for this PC. :3</i>
     </p>
   </details>
+
+  <footer>Made with 💙 and HTML • Hosted on GitHub Pages</footer>
+
+  <script>
+    // Optional: open animation for details when first clicked
+    document.querySelectorAll('details').forEach(d => {
+      d.addEventListener('toggle', () => {
+        if (d.open) d.classList.add('opened');
+      });
+    });
+  </script>
 </body>
 </html>
