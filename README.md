@@ -159,6 +159,7 @@
       <a href="https://www.netonnet.se/art/datorkomponenter/installationstillbehor/mission-sg-bit-driver-kit/1029702.8965/" target="_blank" rel="noopener noreferrer">Tool Kit</a>
       <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R5G19S/" target="_blank" rel="noopener noreferrer">HE68</a>
       <a href="https://www.amazon.se/Aothia-Skrivbordsunderl%C3%A4gg-skrivbordsskydd-vattent%C3%A4tt-skrivbordsunderl%C3%A4gg/dp/B09X6QBGWV/" target="_blank" rel="noopener noreferrer">Mouse Pad</a>
+      money :P (for robotics, and its easier than saying every component i need.)
     </p>
   </details>
 
