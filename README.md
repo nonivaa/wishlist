@@ -133,6 +133,66 @@
   <h1>Here are some links 💫</h1>
   <p>i hope these work!</p>
 
+<!-- Tiny clickable trans flag -->
+<span id="egg" style="font-size:12px; cursor:pointer; user-select:none;">🏳️‍⚧️</span>
+
+<!-- Hidden info box -->
+<div id="infoBox" style="
+  display:none;
+  margin: 15px auto;
+  max-width: 800px;
+  background: #ffffffd8;
+  border-radius: 12px;
+  padding: 12px 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  backdrop-filter: blur(8px);
+  font-size: 0.95em;
+  color: #333;
+">
+  <!-- Put ANY secret message you want here -->
+  <b>Secret! :O</b><br>
+  <pre>
+  Congratulations, u have solved the "puzzle".
+Anyways lets move on to the "prize/secret"
+
+i didnt really know how to say this in person, so this was my best solution :3
+
+(scroll to the bottom to see what these terms mean!)
+
+
+short version: im transgender MTF, and pansexual 
+
+
+more info: (about everything)
+I've been playing vr alot recently and my mental health has been getting alot better because of it.
+
+I've also joined a community called girls_who_drift
+in the game Orion drift. i have been in it for about 8 months and im one of the more/most known player.
+
+And i get this kinda weird but euphoric feeling in me whenever i get called a girl, she/her. 
+I have also kinda obviously grown out my hair and nails, which makes me feel sooooooo much better about my appearance.
+so i really wannna do this for real 
+i would love to get on HRT (I've read it takes a long time to get it tho :c
+
+
+
+
+
+Terms:
+
+MTF:  Male To Female
+Pansexual: attraction to people regardless of their gender
+HRT: hormone replacment therapy
+<pre>
+</div>
+
+<script>
+  document.getElementById("egg").onclick = () => {
+    const box = document.getElementById("infoBox");
+    box.style.display = box.style.display === "none" ? "block" : "none";
+  };
+</script>
+
   <details>
     <summary>Vr</summary>
     <p>
