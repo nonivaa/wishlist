@@ -97,8 +97,8 @@
   <details>
     <summary>Pc</summary>
     <p>
-      <a href="https://www.netonnet.se/art/datorkomponenter/grafikkort/amd/sapphire-radeon-rx-9060-xt-gaming-oc-8gb-pulse/1055575.8988/" target="_blank" rel="noopener noreferrer">Gpu</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/nataggregat/ickemodulart/corsair-cx650-650w/1033220.9010/" target="_blank" rel="noopener noreferrer">Psu</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/grafikkort/amd/asus-radeon-rx-9070-16gb-prime-oc/1039794.8988/" target="_blank" rel="noopener noreferrer">Gpu</a>
+      <a href="https://www.netonnet.se/art/datorkomponenter/nataggregat/modulart/corsair-rm650e-2025-650w-atx-3-1/1039952.9009/" target="_blank" rel="noopener noreferrer">Psu</a>
       <a href="https://www.netonnet.se/art/datorkomponenter/kylning/processorkylning/luftkylning/nzxt-t120-cpu-air-cooler-white-with-120/1035079.21138/" target="_blank" rel="noopener noreferrer">Cpu Fan</a>
       <a href="https://www.netonnet.se/art/datorkomponenter/datorchassi/zalman-z1-iceberg-white/1025424.8955/" target="_blank" rel="noopener noreferrer">Pc Case</a>
     </p>
