@@ -83,24 +83,27 @@
   </style>
 </head>
 <body>
-  <h1>Here are some links 💫</h1>
-  <p>i hope these work!</p>
+  <h1>Here are some links <3</h1>
 
   <details>
-    <summary>Vr</summary>
+    <summary>PC(extra)</summary>
     <p>
-      <a href="https://www.amazon.se/BOBOVR-S3-Pro-huvudluftkonditionering-Hot-Swap-batteri/dp/B0CSY8PD63" target="_blank" rel="noopener noreferrer">Bobo Vr</a>
-      <a href="https://www.amazon.se/AMVR-Uppgraderade-handkontrollremmar-batterilucka-laddningsdocka/dp/B0CJF9QKZ5" target="_blank" rel="noopener noreferrer">AMVR</a>
+      <a href="https://www.elgiganten.se/product/gaming/gamingtillbehor/gaming-headset/steelseries-arctis-nova-pro-omni-tradlost-gamingheadset-svart/1075791" target="_blank" rel="noopener noreferrer">Arctis Nova Pro Omni</a>
+      <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/mus-tangentbord/datormus/logitech-g-pro-x2-superstrike-tradlos-mus/1019080?qid=f2c22437d65579142c40bd6a90b881ab" target="_blank" rel="noopener noreferrer">G Pro X2 Superstrike</a>
+      <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/mus-tangentbord/musmatta/pulsar-superglide-v3-type-s-glass-musplatta-xl-gron/1035359" target="_blank" rel="noopener noreferrer">Superglide V3</a>
+      <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/diverse-datortillbehor/pulsar-superglide-universal-type-s-musfotter/945626" target="_blank" rel="noopener noreferrer">Superglide (accessory)</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/intern-lagring/intern-ssd/pny-cs900-25-sata-iii-ssd-1tb/519630?qid=383902bc62e229a54d0dfb9f8631aa59" target="_blank rel="noopener noreferrer">1tb ssd</a>
     </p>
   </details>
 
   <details>
-    <summary>Pc</summary>
+    <summary>PC(main/GAWD PC PARTS ARE GETTING EXPENSIVE 😭)</summary>
     <p>
-      <a href="https://www.netonnet.se/art/datorkomponenter/grafikkort/amd/asus-radeon-rx-9070-16gb-prime-oc/1039794.8988/" target="_blank" rel="noopener noreferrer">Gpu</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/nataggregat/modulart/corsair-rm650e-2025-650w-atx-3-1/1039952.9009/" target="_blank" rel="noopener noreferrer">Psu</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/kylning/processorkylning/luftkylning/nzxt-t120-cpu-air-cooler-white-with-120/1035079.21138/" target="_blank" rel="noopener noreferrer">Cpu Fan</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/datorchassi/zalman-z1-iceberg-white/1025424.8955/" target="_blank" rel="noopener noreferrer">Pc Case</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/processor-cpu/amd-ryzen-9-9950x3d-processor/907538?qid=9a50d3f5906f16fe6f0321e8427a555b" target="_blank" rel="noopener noreferrer">Cpu</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/ram-minne/corsair-vengeance-ddr5-ram-32gb-6000mts-cl36/841466?qid=7c1346a2c172ca14c5e6ff3f70a0e7b3" target="_blank" rel="noopener noreferrer">RAM</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/datorflaktar-kylning/vattenkylning-till-dator/phanteks-glacier-one-360d30-aio-cpu-vatskekylare-vit/937611?qid=f97911d3f0e4b4316d0f1c5bb6bf1ddf" target="_blank" rel="noopener noreferrer">AIO Cooler</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/moderkort/gigabyte-b850-a-elite-wf7-ice-moderkort/883829?qid=69e49efdc9567f99f392a7321a54a37f" target="_blank" rel="noopener noreferrer">Motherboard</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/datorflaktar-kylning/datorflakt-chassiflakt/corsair-rs120-argb-120mm-pwm-flakt-3-pack-vita/869925?qid=f97911d3f0e4b4316d0f1c5bb6bf1ddf" target="_blank" rel="noopener noreferrer">Case Fans</a>
     </p>
   </details>
 
@@ -143,31 +146,7 @@
   ">
     <b>Secret! :O</b><br>
     <pre>
-Congratulations, u have solved the "puzzle".
-Anyways lets move on to the "prize/secret"
-
-i didnt really know how to say this in person, so this was my best solution :3
-
-(scroll to the bottom to see what these terms mean!)
-
-short version: im transgender MTF, and pansexual
-
-more info: (about everything)
-I've been playing vr alot recently and my mental health has been getting alot better because of it.
-
-I've also joined a community called girls_who_drift
-in the game Orion drift. i have been in it for about 8 months and im one of the more/most known player.
-
-And i get this kinda weird but euphoric feeling in me whenever i get called a girl, she/her.
-I have also kinda obviously grown out my hair and nails, which makes me feel sooooooo much better about my appearance.
-so i really wannna do this for real
-i would love to get on HRT (I've read it takes a long time to get it tho :c)
-
-Terms:
-
-MTF:  Male To Female
-Pansexual: attraction to people regardless of their gender
-HRT: hormone replacement therapy
+fluffin RAWR! >:3
     </pre>
   </div>
 
