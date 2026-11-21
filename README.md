@@ -3,13 +3,12 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Wishlist!</title>
   <link rel="icon" href="https://emojiapi.dev/api/v1/star.svg" type="image/svg+xml">
   <style>
     /* === Base Styles === */
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: radial-gradient(circle at top left, #e3f2fd, #90caf9);
+      background: radial-gradient(circle at top left, #2b4a3b, #1f3029);
       color: #2b2b2b;
       text-align: center;
       padding: 3em 1em;
@@ -37,7 +36,7 @@
     details:hover { transform: translateY(-3px); box-shadow: 0 10px 25px rgba(0,0,0,0.12); }
 
     summary {
-      background: linear-gradient(90deg, #1976d2, #42a5f5);
+      background: linear-gradient(90deg, #2b4a3b, #1f3029);
       color: #fff;
       padding: 14px 18px;
       font-weight: bold;
