@@ -1,9 +1,9 @@
-<!doctype html>
+
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>🌸 Wishlist! :3</title>
+  <title>Wishlist!</title>
   <link rel="icon" href="https://emojiapi.dev/api/v1/star.svg" type="image/svg+xml">
   <style>
     /* === Base Styles === */
@@ -97,7 +97,7 @@
   </details>
 
   <details>
-    <summary>PC(main/GAWD PC PARTS ARE GETTING EXPENSIVE 😭)</summary>
+    <summary>PC(main)/GAWD PC PARTS ARE GETTING EXPENSIVE 😭)</summary>
     <p>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/processor-cpu/amd-ryzen-9-9950x3d-processor/907538?qid=9a50d3f5906f16fe6f0321e8427a555b" target="_blank" rel="noopener noreferrer">Cpu</a>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/ram-minne/corsair-vengeance-ddr5-ram-32gb-6000mts-cl36/841466?qid=7c1346a2c172ca14c5e6ff3f70a0e7b3" target="_blank" rel="noopener noreferrer">RAM</a>
@@ -118,37 +118,14 @@
     </p>
   </details>
 
- # <details>
-    <summary>READ FIRST!! ⚠️</summary>
+  <details>
+    <summary>Extra info</summary>
     <p>
-      If <b>Cpu Fan</b> is bought <b>Thermal Paste</b> is necessary — overheating may happen otherwise.<br>
-      <b>Psu</b> should be <b>650W</b> (otherwise boom 💥)<br>
-      <i>It doesn’t actually explode — 650W is just the best for this PC.</i>
+      mrauw
     </p>
   </details>
 
-  <!-- Tiny clickable trans flag -->
-  <span id="egg" style="font-size:12px; cursor:pointer; user-select:none;" title="Click for secret">🏳️‍⚧️</span>
-
-  <!-- Hidden info box -->
-  <div id="infoBox" style="
-    display:none;
-    margin: 15px auto;
-    max-width: 800px;
-    background: #ffffffd8;
-    border-radius: 12px;
-    padding: 12px 16px;
-    box-shadow: 0 6px 18px rgba(0,0,0,0.1);
-    backdrop-filter: blur(8px);
-    font-size: 0.95em;
-    color: #333;
-  ">
-    <b>Secret! :O</b><br>
-    <pre>
-fluffin RAWR! >:3
-    </pre>
-  </div>
-
+  
   <footer>Made by Nonivaa :3</footer>
 
   <script>
