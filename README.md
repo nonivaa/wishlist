@@ -100,21 +100,19 @@
     <summary>PC(main)/GAWD PC PARTS ARE GETTING EXPENSIVE 😭)</summary>
     <p>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/processor-cpu/amd-ryzen-9-9950x3d-processor/907538?qid=9a50d3f5906f16fe6f0321e8427a555b" target="_blank" rel="noopener noreferrer">Cpu</a>
-      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/ram-minne/corsair-vengeance-ddr5-ram-32gb-6000mts-cl36/841466?qid=7c1346a2c172ca14c5e6ff3f70a0e7b3" target="_blank" rel="noopener noreferrer">RAM</a>
-      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/datorflaktar-kylning/vattenkylning-till-dator/phanteks-glacier-one-360d30-aio-cpu-vatskekylare-vit/937611?qid=f97911d3f0e4b4316d0f1c5bb6bf1ddf" target="_blank" rel="noopener noreferrer">AIO Cooler</a>
-      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/moderkort/gigabyte-b850-a-elite-wf7-ice-moderkort/883829?qid=69e49efdc9567f99f392a7321a54a37f" target="_blank" rel="noopener noreferrer">Motherboard</a>
+      <a href="https://www.amazon.se/VENGEANCE-Geheugen-Desktop-Gaming-Compatibel-CML32GX5M2D6000Z38W/dp/B0HC86VQ7B/ref=sr_1_7?crid=Q3M10E08QTY6&dib=eyJ2IjoiMSJ9.VBTqkYDfx9mxJ0XU41yhEa3aKPt2f77x4txklXxzw5khztB549I4H00RCJKRsiq8Bcrt0TKL0pGKLyXb7_HmcMfDdVJoPXyCnzG2HptIKNMvA_4blQfXLRg6heM9FFF8m9zHKMOBrSjlWuZFRLrApkF1sncDrGIb34DEVQeWuUY6ZBBFXFsv--eskFAoMkG-3DYnsyVgLGIDhcVRp1-yD6emsiCWJby2x34dxCtwu75qu5PA5t-j_NIqxW3RKSrOsBOBzb0c4QjxWs6rmZ02Z443c4p8SRVcFA1JBM_HIow.nR1KxdBOts3IsjY1VMIH3HwVWF8Tia7765Ls_KtmTBI&dib_tag=se&keywords=ddr5%2B32gb&qid=1795278596&sprefix=ddr5%2B32gb%2Caps%2C127&sr=8-7&th=1" target="_blank" rel="noopener noreferrer">ddr5 RAM</a>
+      <a href="https://www.amazon.se/CORSAIR-NAUTILUS-240mm-CPU-V%C3%A4tskekylare-moderkortsanslutning/dp/B0DF79W2TS/ref=sr_1_29?crid=2G5O4I2RCL1R4&dib=eyJ2IjoiMSJ9.UzfcVH1Nd0wAxbo1vduAsOjlmiNcoN-9FUmgVN5l7l7XiowMfvLd0HR6zOwLWC6g6Hk2Gsn3L2BB04GgVhG90pqJHB2eaiYkl-PrpzBSgUsOpiO5MjFF74UmoP0veyhWnCl3UkY_jtn11lM114cAPw_s-SWEYi12kApRpU-sleh96Qe2MlDQH-SpV1f5AnPG-BOaJ7Hec1y7dk8vFBS4CoAOBirvh6JCPLiixJBJelROBl9_mayyNH7OtayuCrMI_NiNOH-I_6JeGW7yFiB4yI35KIyz4ksXrs5n0LBZ29g.3yVyAOuVY2aM-ru62trRMoo_0LvTechmlJ0mEwO_iJE&dib_tag=se&keywords=240%2Baio&qid=1795276609&sprefix=240%2Baio%2Caps%2C113&sr=8-29&th=1" target="_blank" rel="noopener noreferrer">AIO Cooler</a>
+      <a href="https://www.amazon.se/GIGABYTE-B850M-WIFI6E-ICE-moderkort/dp/B0DQNY8GCD/ref=sr_1_28?crid=2SIPUGQDONRUZ&dib=eyJ2IjoiMSJ9.8nJ_KTaDPuIek_YAZ-8XjlyEBIX-9ZbsF63rsy9ZhLDX6DsiSM0wSLuSdAH8s34JxuOGngYzfq7xNvPY_lwRnrVsNLSVL9KeRkvEWz2d0RVCRStmv87Bu7-0UWKces8XTgB7nVUPEC6kqEq8Ol5IqhfyWWLllTHu39VFhi0gSC3G9cwHxkv1CQiM56FCtemyzH7yg0yOqXpgVlUgWioeYi_92qlwJlRXxczMFR6ODUBsgXNCJS4hsjQM1vy-TNtZltLlaoyAdkIixUbXlv5d6C0Pa1uUmKcLYmGBP8PJ4xk.tfS54wGnYmNFrJ-dhF63OINdFeONqFYJq9SSz_3GIeE&dib_tag=se&keywords=motherboard&qid=1795277133&refinements=p_n_feature_browse-bin%3A27355496031&rnid=27355469031&sprefix=motherboar%2Caps%2C116&sr=8-28&th=1" target="_blank" rel="noopener noreferrer">Motherboard</a>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/datorflaktar-kylning/datorflakt-chassiflakt/corsair-rs120-argb-120mm-pwm-flakt-3-pack-vita/869925?qid=f97911d3f0e4b4316d0f1c5bb6bf1ddf" target="_blank" rel="noopener noreferrer">Case Fans</a>
+      <a href="https://www.amazon.se/CORSAIR-RM850e-Helmodul%C3%A4rt-Tystg%C3%A5ende-ATX-N%C3%A4taggregat/dp/B0DMTN5WLB?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&utm_source=chatgpt.com&th=1" target="_blank" rel="noopener noreferrer">PSU</a>
     </p>
   </details>
 
   <details>
-    <summary>Extras</summary>
+    <summary>Incase ^ is to much</summary>
     <p>
-      <a href="https://www.netonnet.se/art/datorkomponenter/kylning/kylpasta/corsair-tm30-thermal-paste/1007891.9166/" target="_blank" rel="noopener noreferrer">Thermal Paste</a>
-      <a href="https://www.netonnet.se/art/dator-surfplatta/datortillbehor/datorrengoring/mission-sg-air-d2000-air-duster/1030674.9511/" target="_blank" rel="noopener noreferrer">Pc Cleaner</a>
-      <a href="https://www.netonnet.se/art/datorkomponenter/installationstillbehor/mission-sg-bit-driver-kit/1029702.8965/" target="_blank" rel="noopener noreferrer">Tool Kit</a>
-      <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R5G19S/" target="_blank" rel="noopener noreferrer">HE68</a>
-      <a href="https://www.amazon.se/Aothia-Skrivbordsunderl%C3%A4gg-skrivbordsskydd-vattent%C3%A4tt-skrivbordsunderl%C3%A4gg/dp/B09X6QBGWV/" target="_blank" rel="noopener noreferrer">Mouse Pad</a>
+      <a href="https://se.nothing.tech/products/phone-4a-pro?Colour=Pink&Capacity=12%2B256GB" target="_blank" rel="noopener noreferrer">Nothing phone 4a pro</a>
+      <a href="https://www.amazon.se/JAZER-2-0-%C3%B6verklockning-UDIMM-minne-station%C3%A4r-h%C3%B6gpresterande/dp/B0G3NW4N3K/ref=sr_1_5?crid=VR9T1815UXDH&dib=eyJ2IjoiMSJ9.5DD7QRbrPMZ5t1pqR2x7gnwA8gdlYYF2FGuUgwv9sh1pgDs5Ovaytstnm2HlBfx8HjiiIi4XulJ4wWyAPpLZyEYn3NATtLxkVIzYLL8FQKCWHeTxh-m5-3Cyk8yDXbOV12xgS-ZlsJ7TrdRG9nGjDFit46_3jlYnnK6Hb2GcHEsaCXwL-zcoev37TSUNx2y-LLvdREgCMB_IHNBorwIICVyAADgksbjZdGwsuLBDDQytuH-PxcemMHwUUBTgwEeX2qvMLnA86HfXNrvZ3aofr_-IdDcnxeppz01dbVeMxEw.bHL8Zx9GZss6EZyjgIxnqCII4Ao28dcumh7vhbBczVQ&dib_tag=se&keywords=ddr4%2B32gb&qid=1795278492&sprefix=ddr4%2B%2Caps%2C135&sr=8-5&th=1" target="_blank" rel="noopener noreferrer">ddr4 RAM</a>
     </p>
   </details>
 
