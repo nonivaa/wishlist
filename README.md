@@ -9,7 +9,7 @@
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: radial-gradient(circle at top left, #2b4a3b, #1f3029);
-      color: #2b2b2b;
+      color: #242424;
       text-align: center;
       padding: 3em 1em;
       margin: 0;
@@ -17,13 +17,13 @@
       transition: background 0.3s ease;
     }
 
-    h1 { color: #0d47a1; font-size: 2em; margin-bottom: 0.3em; }
+    h1 { color: #242424; font-size: 2em; margin-bottom: 0.3em; }
     p { color: #444; margin-bottom: 2em; }
 
     details {
       background: #ffffffb3;
       border-radius: 16px;
-      box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.0);
       width: 100%;
       max-width: 500px;
       margin: 20px auto;
