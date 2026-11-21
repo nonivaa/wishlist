@@ -83,18 +83,19 @@
   <h1>Here are some links <3</h1>
 
   <details>
-    <summary>PC(extra)</summary>
+    <summary>PC accessories/electronics</summary>
     <p>
       <a href="https://www.elgiganten.se/product/gaming/gamingtillbehor/gaming-headset/steelseries-arctis-nova-pro-omni-tradlost-gamingheadset-svart/1075791" target="_blank" rel="noopener noreferrer">Arctis Nova Pro Omni</a>
       <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/mus-tangentbord/datormus/logitech-g-pro-x2-superstrike-tradlos-mus/1019080?qid=f2c22437d65579142c40bd6a90b881ab" target="_blank" rel="noopener noreferrer">G Pro X2 Superstrike</a>
       <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/mus-tangentbord/musmatta/pulsar-superglide-v3-type-s-glass-musplatta-xl-gron/1035359" target="_blank" rel="noopener noreferrer">Superglide V3</a>
       <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/diverse-datortillbehor/pulsar-superglide-universal-type-s-musfotter/945626" target="_blank" rel="noopener noreferrer">Superglide (accessory)</a>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/intern-lagring/intern-ssd/pny-cs900-25-sata-iii-ssd-1tb/519630?qid=383902bc62e229a54d0dfb9f8631aa59" target="_blank" rel="noopener noreferrer">1tb ssd</a>
+      <a href="https://se.nothing.tech/products/phone-4a-pro?Colour=Pink&Capacity=12%2B256GB" target="_blank" rel="noopener noreferrer">Nothing phone 4a pro</a>
     </p>
   </details>
 
   <details>
-    <summary>PC(main)/GAWD PC PARTS ARE GETTING EXPENSIVE 😭)</summary>
+    <summary>PC parts (GAWD things are getting EXPENSIVE 😭)</summary>
     <p>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/processor-cpu/amd-ryzen-9-9950x3d-processor/907538?qid=9a50d3f5906f16fe6f0321e8427a555b" target="_blank" rel="noopener noreferrer">Cpu</a>
       <a href="https://www.amazon.se/VENGEANCE-Geheugen-Desktop-Gaming-Compatibel-CML32GX5M2D6000Z38W/dp/B0HC86VQ7B/ref=sr_1_7?crid=Q3M10E08QTY6&dib=eyJ2IjoiMSJ9.VBTqkYDfx9mxJ0XU41yhEa3aKPt2f77x4txklXxzw5khztB549I4H00RCJKRsiq8Bcrt0TKL0pGKLyXb7_HmcMfDdVJoPXyCnzG2HptIKNMvA_4blQfXLRg6heM9FFF8m9zHKMOBrSjlWuZFRLrApkF1sncDrGIb34DEVQeWuUY6ZBBFXFsv--eskFAoMkG-3DYnsyVgLGIDhcVRp1-yD6emsiCWJby2x34dxCtwu75qu5PA5t-j_NIqxW3RKSrOsBOBzb0c4QjxWs6rmZ02Z443c4p8SRVcFA1JBM_HIow.nR1KxdBOts3IsjY1VMIH3HwVWF8Tia7765Ls_KtmTBI&dib_tag=se&keywords=ddr5%2B32gb&qid=1795278596&sprefix=ddr5%2B32gb%2Caps%2C127&sr=8-7&th=1" target="_blank" rel="noopener noreferrer">ddr5 RAM</a>
@@ -102,21 +103,15 @@
       <a href="https://www.amazon.se/GIGABYTE-B850M-WIFI6E-ICE-moderkort/dp/B0DQNY8GCD/ref=sr_1_28?crid=2SIPUGQDONRUZ&dib=eyJ2IjoiMSJ9.8nJ_KTaDPuIek_YAZ-8XjlyEBIX-9ZbsF63rsy9ZhLDX6DsiSM0wSLuSdAH8s34JxuOGngYzfq7xNvPY_lwRnrVsNLSVL9KeRkvEWz2d0RVCRStmv87Bu7-0UWKces8XTgB7nVUPEC6kqEq8Ol5IqhfyWWLllTHu39VFhi0gSC3G9cwHxkv1CQiM56FCtemyzH7yg0yOqXpgVlUgWioeYi_92qlwJlRXxczMFR6ODUBsgXNCJS4hsjQM1vy-TNtZltLlaoyAdkIixUbXlv5d6C0Pa1uUmKcLYmGBP8PJ4xk.tfS54wGnYmNFrJ-dhF63OINdFeONqFYJq9SSz_3GIeE&dib_tag=se&keywords=motherboard&qid=1795277133&refinements=p_n_feature_browse-bin%3A27355496031&rnid=27355469031&sprefix=motherboar%2Caps%2C116&sr=8-28&th=1" target="_blank" rel="noopener noreferrer">Motherboard</a>
       <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/datorflaktar-kylning/datorflakt-chassiflakt/corsair-rs120-argb-120mm-pwm-flakt-3-pack-vita/869925?qid=f97911d3f0e4b4316d0f1c5bb6bf1ddf" target="_blank" rel="noopener noreferrer">Case Fans</a>
       <a href="https://www.amazon.se/CORSAIR-RM850e-Helmodul%C3%A4rt-Tystg%C3%A5ende-ATX-N%C3%A4taggregat/dp/B0DMTN5WLB?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&utm_source=chatgpt.com&th=1" target="_blank" rel="noopener noreferrer">PSU</a>
-    </p>
-  </details>
-
-  <details>
-    <summary>Incase ^ is to much</summary>
-    <p>
-      <a href="https://se.nothing.tech/products/phone-4a-pro?Colour=Pink&Capacity=12%2B256GB" target="_blank" rel="noopener noreferrer">Nothing phone 4a pro</a>
       <a href="https://www.amazon.se/JAZER-2-0-%C3%B6verklockning-UDIMM-minne-station%C3%A4r-h%C3%B6gpresterande/dp/B0G3NW4N3K/ref=sr_1_5?crid=VR9T1815UXDH&dib=eyJ2IjoiMSJ9.5DD7QRbrPMZ5t1pqR2x7gnwA8gdlYYF2FGuUgwv9sh1pgDs5Ovaytstnm2HlBfx8HjiiIi4XulJ4wWyAPpLZyEYn3NATtLxkVIzYLL8FQKCWHeTxh-m5-3Cyk8yDXbOV12xgS-ZlsJ7TrdRG9nGjDFit46_3jlYnnK6Hb2GcHEsaCXwL-zcoev37TSUNx2y-LLvdREgCMB_IHNBorwIICVyAADgksbjZdGwsuLBDDQytuH-PxcemMHwUUBTgwEeX2qvMLnA86HfXNrvZ3aofr_-IdDcnxeppz01dbVeMxEw.bHL8Zx9GZss6EZyjgIxnqCII4Ao28dcumh7vhbBczVQ&dib_tag=se&keywords=ddr4%2B32gb&qid=1795278492&sprefix=ddr4%2B%2Caps%2C135&sr=8-5&th=1" target="_blank" rel="noopener noreferrer">ddr4 RAM</a>
     </p>
   </details>
-
+  
   <details>
     <summary>Extra info</summary>
     <p>
-      mrauw
+      everything in PC parts needs to be bought together, to function properly <b>except<b> Case Fans, PSU, ddr4 RAM.
+      <b>and<b> ddr4 RAM should not be bought if ddr5 RAM is! :3
     </p>
   </details>
 
