@@ -113,8 +113,7 @@
       everything in PC parts needs to be bought together, to function properly <b>except<b> Case Fans, PSU, ddr4 RAM.
       <b>and<b> ddr4 RAM should not be bought if ddr5 RAM is! :3
         (it's called a wishlist for a reason, so i dont expect getting ALL of this)
-    </p>
-  </details>
+
 
   
   <footer>Made by Nonivaa :3</footer>
