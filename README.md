@@ -92,7 +92,7 @@
       <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/mus-tangentbord/datormus/logitech-g-pro-x2-superstrike-tradlos-mus/1019080?qid=f2c22437d65579142c40bd6a90b881ab" target="_blank" rel="noopener noreferrer">G Pro X2 Superstrike</a>
       <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/mus-tangentbord/musmatta/pulsar-superglide-v3-type-s-glass-musplatta-xl-gron/1035359" target="_blank" rel="noopener noreferrer">Superglide V3</a>
       <a href="https://www.elgiganten.se/product/datorer-kontor/datortillbehor/diverse-datortillbehor/pulsar-superglide-universal-type-s-musfotter/945626" target="_blank" rel="noopener noreferrer">Superglide (accessory)</a>
-      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/intern-lagring/intern-ssd/pny-cs900-25-sata-iii-ssd-1tb/519630?qid=383902bc62e229a54d0dfb9f8631aa59" target="_blank rel="noopener noreferrer">1tb ssd</a>
+      <a href="https://www.elgiganten.se/product/gaming/datorkomponenter/intern-lagring/intern-ssd/pny-cs900-25-sata-iii-ssd-1tb/519630?qid=383902bc62e229a54d0dfb9f8631aa59" target="_blank" rel="noopener noreferrer">1tb ssd</a>
     </p>
   </details>
 
@@ -115,11 +115,10 @@
       <a href="https://www.netonnet.se/art/datorkomponenter/installationstillbehor/mission-sg-bit-driver-kit/1029702.8965/" target="_blank" rel="noopener noreferrer">Tool Kit</a>
       <a href="https://www.amazon.se/EPOMAKER-HE68-Lite-skanningsfrekvens-sn%C3%A4ppnyckel/dp/B0F7R5G19S/" target="_blank" rel="noopener noreferrer">HE68</a>
       <a href="https://www.amazon.se/Aothia-Skrivbordsunderl%C3%A4gg-skrivbordsskydd-vattent%C3%A4tt-skrivbordsunderl%C3%A4gg/dp/B09X6QBGWV/" target="_blank" rel="noopener noreferrer">Mouse Pad</a>
-      money :P
     </p>
   </details>
 
-  <details>
+ # <details>
     <summary>READ FIRST!! ⚠️</summary>
     <p>
       If <b>Cpu Fan</b> is bought <b>Thermal Paste</b> is necessary — overheating may happen otherwise.<br>
