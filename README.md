@@ -1,6 +1,5 @@
 
 <html lang="en">
-<head>
   
   <style>
     /* === Base Styles === */
@@ -145,5 +144,4 @@
       });
     });
   </script>
-</body>
-</html>
+
