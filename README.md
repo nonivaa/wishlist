@@ -2,7 +2,6 @@
 <html lang="en">
   
   <style>
-    /* === Base Styles === */
     body {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       background: radial-gradient(circle at top left, #2b4a3b, #1f3029);
@@ -109,39 +108,12 @@
   <details>
     <summary>Extra info</summary>
     <p>
-      everything in PC parts needs to be bought together, to function properly <b>except<b> Case Fans, PSU, ddr4 RAM.
-      <b>and<b> ddr4 RAM should not be bought if ddr5 RAM is! :3
+      <b>everything in PC parts needs to be bought together to function properly, except Case Fans, PSU, ddr4 RAM.
+      and ddr4 RAM should not be bought if ddr5 RAM is! :3
         (it's called a wishlist for a reason, so i dont expect getting ALL of this)
 
 
   
   <footer>Made by Nonivaa :3</footer>
 
-  <script>
-    // Wait until DOM is loaded then attach listener (safe anywhere)
-    document.addEventListener('DOMContentLoaded', () => {
-      const egg = document.getElementById('egg');
-      const box = document.getElementById('infoBox');
-
-      if (!egg || !box) return; // defensive
-
-      egg.addEventListener('click', () => {
-        // toggle visibility
-        if (box.style.display === 'none' || getComputedStyle(box).display === 'none') {
-          box.style.display = 'block';
-          egg.setAttribute('aria-expanded', 'true');
-        } else {
-          box.style.display = 'none';
-          egg.setAttribute('aria-expanded', 'false');
-        }
-      });
-    });
-
-    // Optional: add nice open class on details when toggled
-    document.querySelectorAll('details').forEach(d => {
-      d.addEventListener('toggle', () => {
-        if (d.open) d.classList.add('opened'); else d.classList.remove('opened');
-      });
-    });
-  </script>
 
