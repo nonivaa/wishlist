@@ -195,6 +195,10 @@
            target="_blank" rel="noopener noreferrer">
           Nothing Phone 3
         </a>
+
+		<a href="https://se.nothing.tech/products/phone-4a-pro?Colour=Pink&Capacity=12%2B256GB"
+		target="_blank" rel="noopener noreferrer">Nothing phone 4a pro
+		</a>
       </div>
     </details>
 
@@ -274,7 +278,7 @@
 
       <div class="info">
 <b>boo!</b><br><br>
-	1. Nothing Phone 3<br><br>
+	1. Nothing Phone 3 (incase its sold out, Nothing phone 4a pro)<br><br>
 	2. 32gb ddr4 RAM<br><br>
 	3. 1TB SSD<br><br>
 	4. Superglide v3<br><br>
